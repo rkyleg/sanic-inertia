@@ -27,7 +27,7 @@ see, why you need it, and how it should work.
 
 Please open a new Pull Request on Github referencing your work in the `README.rst`
 file. If you're not familiar on how to open a PR, please see the documentation
-at `http://makeapullrequest.com/`_.
+at http://makeapullrequest.com/.
 
 **Did you code a new feature or a bug fix ?**
 
